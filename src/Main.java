@@ -30,6 +30,6 @@ public class Main {
         }
         else if (number >= 80) {
             System.out.println("grade A \n" + number);
-        }
+          }
     }
 }
